@@ -1,0 +1,15 @@
+.header, .FooterContainer{
+  background-color:grey;
+}
+.sidebarContainer{
+  background-color: rgba(240, 230, 140, 0.315);
+}
+.footertxt{
+  line-height: 50px;
+  text-align: center;
+  
+  font-size: 24px;
+}
+.centertxt{
+  margin-top: 10px;
+}

@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/icon2?family=Material+Icons');
+
+
+body {
+  background-color:darkgrey;
+}
+.wrapper{
+  background-color:white;
+  padding: 15px 10px;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.header, .FooterContainer{
+  background-color:grey;
+}
+.sidebarContainer{
+  background-color: rgba(240, 230, 140, 0.315);
+}
+.footertxt{
+  line-height: 50px;
+  text-align: center;
+  
+  font-size: 24px;
+}
+.centertxt{
+  margin-top: 10px;
+}
+.nav {
+  background-color: white;
+}
+.nav-link {
+  color: brown;
+
+}
